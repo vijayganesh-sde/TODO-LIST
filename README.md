@@ -1,2 +1,2 @@
 # TODO-LIST
-simple to-do list
+simple to-do list using Python Flask
